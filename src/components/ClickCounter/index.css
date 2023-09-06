@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #f1f5f8;
+  height: 500px;
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: 35px;
+}
+
+.count {
+  justify-content: center;
+  align-self: center;
+  color: #c20a72;
+}
+
+.btn {
+  background-color: #007bff;
+  border-style: none;
+  border-radius: 8px;
+  color: white;
+  width: 90px;
+  height: 30px;
+}
